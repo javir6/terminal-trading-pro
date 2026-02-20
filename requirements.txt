@@ -1,0 +1,8 @@
+streamlit
+yfinance
+plotly
+pandas_ta
+pandas
+newsapi-python
+textblob
+deep_translator
